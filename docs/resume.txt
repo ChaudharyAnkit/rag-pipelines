@@ -1,0 +1,80 @@
+Curriculum vitae
+                                   ANKIT CHAUDHARY  
+                        
+Email: ankit.developer99@gmail.com, Mobile: +91-9992989735
+
+	Professional Summary
+Experienced Full Stack .NET Engineer with over 8 years of expertise in delivering robust software solutions. Proficient in Azure cloud services, microservices architecture, integrating third-party APIs, and utilizing Entity Framework for database operations. Skilled in leading complex projects from conception to deployment, driving innovation, and exceeding client expectations.	
+	WORK EXPERIENCE
+
+Lead Full Stack .NET Engineer
+[Teleperformance]
+[July-2022 - Present]
+
+ 	Played a key role in the development of an attendance control system and Employee portal  used by Teleperformance Portugal to manage daily schedules, vacations , declarations ,payout and much more. Utilized Entity Framework for efficient database operations.
+ 	Provided mentorship and technical guidance to junior developers, fostering a culture of continuous learning and innovation.
+ 	Collaborated with cross-functional teams to gather requirements, design system architecture, and implement features that meet the company's needs.
+ 	Integrated third-party APIs for enhanced functionality, ensuring seamless integration with existing systems and compliance with company policies.
+ 	Provided technical support and troubleshooting for the application, resolving issues promptly to minimize downtime and ensure smooth operations.
+ 	Contributed to the continuous improvement of the application by implementing new features, optimizing performance, and addressing user feedback.
+
+Full Stack .NET Engineer
+[Rosmerta Technologies Pvt Ltd]
+[Oct-2018 -Jul 2022] 3 yrs. 10 mos.
+
+ 	Spearheaded the integration of payment gateways such as CCavenue and Razorpay into "BookMyHSRP," a vehicle registration application, facilitating secure and seamless transactions.
+ 	Integrated third-party APIs for payment processing and shipping services, ensuring secure and reliable transaction processing.
+ 	Actively participated in Agile ceremonies, contributing to the iterative development and delivery of software solutions.
+
+.NET Engineer
+[Excel IT Services]
+[Apr-2017 -Oct 2018] 1 yr. 7 mos.
+
+ 	Developed custom e-commerce platforms using ASP.NET MVC, Entity Framework, and AngularJS, optimizing performance and user experience.
+ 	Provided technical support and troubleshooting for the application, resolving issues promptly to minimize downtime and ensure smooth operations.
+
+	SOME MAJOR PROJECTS:
+
+Microservices Architecture Migration
+ 	Description: Led the migration of a monolithic application to a microservices architecture, breaking down components into independently deployable services, improving scalability, and reducing deployment times.
+ 	Technologies:Vue Js , React Js , Azure Functions, ASP.NET Core Api
+
+AI-HUB - AI API Marketplace
+ 	Description: Developed AI-HUB, an AI API marketplace where users can access a set of AI APIs on a pay-as-you-go model. Utilized ASP.NET Core for backend development and React js for frontend, integrating various AI APIs for text analysis, image recognition, and natural language processing.
+ 	Technologies: Vue Js , React Js,  ASP.NET Core, Azure Services, AI APIs, Cosmos, React Js
+
+Attendance Control System
+ 	Description: Developed Web apps , an attendance control system and Employee portal managing daily schedules, vacations, and attendance and declarations, integrating third-party APIs for enhanced functionality and compliance. Utilized Entity Framework for efficient database operations.
+ 	Technologies: Vue Js , React Js,  ASP.NET Core, SQL Server, SSO
+
+BookMyHSRP - Vehicle Registration Application
+ 	Description: Engineered BookMyHSRP, a vehicle registration application, integrating third-party APIs and payment gateways such as CCavenue and Razorpay for secure and seamless transactions.
+ 	Technologies: ASP.NET Core, Web API, SQL Database, jQuery, CCavenue, Razorpay.
+
+Point of Sale System for Small Hotels and Restaurants
+ 	Description: Developed a point-of-sale system for small hotels and restaurants, enabling them to manage and maintain sales efficiently. Implemented Entity Framework for data access and management.
+ 	Technologies: ASP.NET, Web Api, SQL Server.
+
+ DLRC (Driving License & Vehicle Registration Certificates Personalization)
+ 	Description: Chip –based smart card license and Registration certificate printed through our application and consume NIC services to get data from government.
+ 	Technologies: ASP.NET, Azure SQL Database, CCavenue, Razorpay, LINQ.
+
+	PROFESSIONAL DEVELOPMENT:
+ 	Completed Azure Developer Bootcamp (AZ-204) - Azure Architecture Technologies
+ 	Attended workshops on advanced Git techniques and best practices in source control management.
+
+	PROFESSIONAL QUALIFICATION:	
+Completed B.Tech in (Electronics and Communication Engg) from MVN college of Engineering,
+             Palwal, Affiliated to Maharishi Dayanand University (MDU), Rohtak.
+	TECHNICAL SKILLS:	
+ 	Programming Languages: C++, C#, JavaScript, jQuery, React Js, Vue Js
+ 	Web Technologies: ASP.NET Core, Web API, ASP.NET MVC, React , HTML5, CSS3
+ 	Databases: SQL Server, Azure SQL Database, PostgreSQL, MySQL, Cosmos
+ 	Cloud Platforms: Microsoft Azure, AWS
+ 	Source Control: Git, Bitbucket, SVN
+ 	Payment Gateways: CCavenue, Razorpay
+ 	LINQ (Language Integrated Query)
+ 	Entity Framework
+ 	SQL Scripting: Ability to create and manage complex SQL scripts
+ 	Agile Methodologies: Scrum, Kanban
+
